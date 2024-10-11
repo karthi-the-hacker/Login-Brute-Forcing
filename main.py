@@ -1,4 +1,4 @@
-mport requests
+import requests
 
 url = "http://testphp.vulnweb.com/userinfo.php"
 
